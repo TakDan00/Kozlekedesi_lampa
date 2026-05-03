@@ -118,13 +118,22 @@ A program fő elemei:
 
 ## 📷 Projekt bemutatása
 
+<img width="974" height="663" alt="image" src="https://github.com/user-attachments/assets/dc0f1916-738b-4008-a1d0-00e8d087f550" />
+<img width="957" height="743" alt="image" src="https://github.com/user-attachments/assets/2e7dcdea-e6d3-4e74-9194-48c1df566629" />
+
+
+
+---
+
+## 🧾 Forráskód
+
 
 
 ---
 
 ## 👨‍💻 Készítette
 
-Név: Takács Dániel
-Neptun kód: SUSHBA
+* Név: Takács Dániel
+* Neptun kód: SUSHBA
 
 ---
