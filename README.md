@@ -127,6 +127,8 @@ A program fő elemei:
 
 ## 🧾 Forráskód
 
+Megtalálható a repositoryban.
+
 
 
 ---
