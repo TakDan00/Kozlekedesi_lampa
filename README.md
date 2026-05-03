@@ -1,4 +1,4 @@
-# Okos közlekedési lámpa rendszer (Arduino)
+# Okos közlekedési lámpa rendszer
 
 ## 📌 Projekt leírás
 
